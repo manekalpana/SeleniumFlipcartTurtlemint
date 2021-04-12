@@ -1,2 +1,2 @@
 # SeleniumFlipcartTurtlemint
-Flipcart demo fpr searching books
+Flipcart demo for searching books
